@@ -1,0 +1,12 @@
+body{margin: 0;
+padding:0;}
+body {background-color: white;}
+
+.top-main {background-color: red; height: 20px; width: 30%; float: 20px;}
+.middle-main{background-color: blue; height: 20px; width: 30px; float: 20px;}
+.lower-main{background-color: green; height: 20px; width: 30px; float:20px;}
+
+.button-main{
+margin:50px;
+padding: 30px;
+}
