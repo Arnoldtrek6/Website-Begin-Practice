@@ -1,3 +1,1 @@
-# Website-Begin-Practice
-Website Learning
-We are going to practice github and website basics
+All the website practice will be uploaded here
